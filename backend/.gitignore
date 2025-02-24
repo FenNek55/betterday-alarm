@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs & Debugging
+logs/
+*.log
+*.out
+*.err
+debug.log
+
+# Database files
+*.sqlite
+*.db
+*.db-journal
+
+# Cache files
+.cache/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Dependency files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# Docker
+docker-compose.override.yml
+*.dockerfile
+*.dockerignore
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
