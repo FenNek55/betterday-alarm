@@ -56,3 +56,7 @@ docker-compose.override.yml
 
 # Windows
 Thumbs.db
+
+# Google credentials json
+
+*.apps.googleusercontent.com
