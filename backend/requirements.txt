@@ -1,0 +1,7 @@
+google_api_python_client==2.161.0
+gTTS==2.5.4
+mutagen==1.47.0
+newsapi_python==0.2.7
+protobuf==5.29.3
+python-dotenv==1.0.1
+python_vlc==3.0.21203

@@ -59,4 +59,7 @@ Thumbs.db
 
 # Google credentials json
 
-*.apps.googleusercontent.com
+*.token.json
+
+# generated morning audio
+generated_text.mp3
