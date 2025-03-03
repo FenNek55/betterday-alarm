@@ -1,4 +1,4 @@
-# Alarm App
+# Betterday alarm
 
 ## Overview
 This project is an alarm system that plays an alarm sound, fetches news headlines, and personalizes a morning message using an LLM. It integrates with Google Calendar to fetch daily events and provides customizable settings for alarm sounds and radio streams.
